@@ -1,14 +1,9 @@
-# 🧠 Computational Optical Imaging
+# Computational Optical Imaging
 
-This repository contains a collection of Jupyter notebooks developed as part of the **Computational Optical Imaging** course.  
-Modern imaging systems combine traditional optical devices (lenses, endoscopes, cameras, laser scanners, etc.) with digital computation.  
-In this course, we learn how to use **computational tools** to simulate optical systems and combine them with **neural networks** that process optical images.
+This repository contains a collection of Jupyter notebooks developed as part of the **Computational Optical Imaging** course at EPFL.
+In this course, we learnt how to use **computational tools** to simulate optical systems and combine them with **neural networks** that process optical images.
 
 ---
-
-## 📘 Course Overview
-
-The course bridges **physical optics** and **machine learning**, exploring how light propagation, imaging, and scattering can be simulated and enhanced through deep learning.  
 
 ### Topics covered:
 1. **Optical wave propagation**  
@@ -40,7 +35,7 @@ The course bridges **physical optics** and **machine learning**, exploring how l
 
 ---
 
-## 📂 Repository Structure
+### Exercises
 
 | Notebook | Title / Topic |
 |-----------|---------------|
@@ -59,14 +54,8 @@ The course bridges **physical optics** and **machine learning**, exploring how l
 
 ---
 
-## 🧠 Keywords
 
-**Optical imaging**, **computational optics**, **holography**, **beam propagation method**, **neural networks**, **inverse problems**, **microscopy**, **phase retrieval**, **optical diffraction tomography**, **MaxwellNet**, **image reconstruction**.
-
----
-
-
-## 📸 Example Output
+### Example from one of the notebook
 
 <p align="center">
   <img src="fibers.png" width="600">
