@@ -60,5 +60,5 @@ In this course, we learnt how to use **computational tools** to simulate optical
 <p align="center">
   <img src="fibers.png" width="600">
   <br>
-  <em>Example of simulated propagating modes in a fiber.</em>
+  <em>Simulated propagating modes in a fiber.</em>
 </p>
